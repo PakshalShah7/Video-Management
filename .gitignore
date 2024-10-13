@@ -1,0 +1,6 @@
+video_management_venv/*
+temp/*
+.pytest_cache/*
+video_management.db
+.idea
+__pycache__/
